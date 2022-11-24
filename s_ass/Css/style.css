@@ -1,0 +1,70 @@
+h2
+{
+	text-align: center;
+	color: darkred;
+}
+body
+{
+	background-color: lightgray;
+}
+.AA
+{
+	display: inline;
+}
+.A1 
+{
+	margin-left: 50px;
+}
+.A2
+{
+	margin-left: 53px;
+}
+.A3
+{
+	margin-left: 93px;
+}
+.A4
+{
+	margin-left: 50px;
+}
+.A5
+{
+	margin-left: 73px;
+}
+.A6
+{
+	margin-left: 26px;
+}
+.A7
+{
+	margin-left: 70px;
+}
+.A8
+{
+	margin-left: 105px;
+}
+.A9
+{
+	margin-left: 68px;
+}
+.A10
+{
+	margin-left: 93px;
+}
+.A11
+{
+	margin-left: 18px;
+}
+.A12
+{
+	margin-left: 7px;
+}
+.A13
+{
+	margin-left: 55px;
+}
+.btn
+{
+	background-color: green;
+	color: white;
+}
